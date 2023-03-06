@@ -1,3 +1,3 @@
 #first-repository
 ## git config
-add new contents
+파바썬? 10.프로젝트 03062023
